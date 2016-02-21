@@ -385,12 +385,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="INFO_ATTRIBUTES">
-      <value>
-        <option name="ERROR_STRIPE_COLOR" value="756d56" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="2c323e" />
@@ -406,13 +400,6 @@
         <option name="FOREGROUND" value="98c379" />
         <option name="BACKGROUND" value="5c6370" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="abb2bf" />
-        <option name="EFFECT_COLOR" value="abb2bf" />
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_CONSTANT">
@@ -561,7 +548,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3e4451" />
+        <option name="BACKGROUND" value="52503a" />
         <option name="ERROR_STRIPE_COLOR" value="e5c07b" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
